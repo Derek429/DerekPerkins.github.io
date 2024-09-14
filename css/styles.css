@@ -212,7 +212,11 @@ nav a:visited {
 
 /*Home start*/
 hc {
-	background-color: #7B9EFD;
+    background-color: #7B9EFD;
+}
+
+hc h1 {
+    text-align: center;
 }
 /*Home end*/
 
