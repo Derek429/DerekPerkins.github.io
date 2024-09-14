@@ -221,6 +221,17 @@ nav a:visited {
 }
 /*Home end*/
 
+/*Music Project start*/
+.mpj {
+    background-color: #dcdefa;
+}
+
+.mpj h1 {
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+/*Music Project end*/
+
 /*Footer*/
 footer {
 	background-color: black;
