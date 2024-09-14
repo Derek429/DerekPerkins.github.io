@@ -211,11 +211,11 @@ nav a:visited {
 /*header end*/
 
 /*Home start*/
-.hc {
+.container.hc {
     background-color: #dcdefa;
 }
 
-.hc h1 {
+.container.hc h1 {
     text-align: center;
     font-family: 'Montserrat', sans-serif;
 }
