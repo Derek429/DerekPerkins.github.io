@@ -211,11 +211,11 @@ nav a:visited {
 /*header end*/
 
 /*Home start*/
-hc {
+.hc {
     background-color: #dcdefa;
 }
 
-hc h1 {
+.hc h1 {
     text-align: center;
 }
 /*Home end*/
