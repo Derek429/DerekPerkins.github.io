@@ -8,6 +8,21 @@ header {
 	background-color: #497AFD;
 }
 
+.title img{
+    width:100%;
+    height: 740px;
+    object-fit: cover;
+    object-position: 0 50%;
+}
+.centered {
+    font-family: 'Bungee Inline', cursive;
+    color:white;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
 /*Nav Start*/
 nav {
     display: flex;
