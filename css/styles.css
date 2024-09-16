@@ -229,6 +229,9 @@ nav a:visited {
     font-family: 'Montserrat', sans-serif;
 }
 .wss img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
     height: 60px;
 }
 /*Website Project end*/
@@ -260,7 +263,9 @@ nav a:visited {
 }
 
 .OCW img {
-    margin:auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
     width:400px;
 }
 
