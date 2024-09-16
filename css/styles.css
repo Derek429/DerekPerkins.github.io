@@ -220,6 +220,18 @@ nav a:visited {
     font-family: 'Montserrat', sans-serif;
 }
 /*Home end*/
+/*Website Project start*/
+.wss {
+    background-color: #dfebe9;
+}
+.wss h1 {
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+.wss img {
+    height: 60px;
+}
+/*Website Project end*/
 
 /*Music Project start*/
 .mpj {
