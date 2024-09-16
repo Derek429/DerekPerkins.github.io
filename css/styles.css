@@ -231,6 +231,17 @@ nav a:visited {
     font-family: 'Montserrat', sans-serif;
 }
 
+.mpj p {
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.audio-container {
+  display: flex;
+  justify-content: center;
+  align-items: center 
+}
+
 .top{
     margin-top: 0px;
     padding-top: 30px;
