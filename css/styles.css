@@ -231,6 +231,11 @@ nav a:visited {
     font-family: 'Montserrat', sans-serif;
 }
 
+.top{
+    margin-top: 0px;
+    padding-top: 30px;
+}
+
 .MVW {
     padding-top: 30px;
     padding-bottom: 30px;
