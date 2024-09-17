@@ -229,6 +229,11 @@ nav a:visited {
 .wss h1 {
     text-align: center;
     font-family: 'Montserrat', sans-serif;
+    color:white;
+}
+.wss p {
+    text-align: center;
+    color:white;
 }
 .wss img {
     display: block;
