@@ -261,6 +261,10 @@ nav a:visited {
     margin-left: auto;
     margin-right: auto;
     height: 400px;
+    transition: 0.4s;
+}
+.wss img:hover{
+    transform: scale(1.1)
 }
 .CCHW {
     padding-top: 100px;
@@ -317,6 +321,10 @@ nav a:visited {
     align-items: center;
 }
 /*Music Project end*/
+
+/*Resume start*/
+
+/*Resume end*/
 
 /*Footer*/
 footer {
