@@ -221,6 +221,10 @@ nav a:visited {
     text-align: center;
     font-family: 'Montserrat', sans-serif;
 }
+
+.CContent p{
+    text-align: center;
+}
 /*Home end*/
 /*Website Project start*/
 .wss {
