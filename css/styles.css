@@ -212,7 +212,7 @@ nav a:visited {
 
 /*Home start*/
 .hc {
-    background-color: #dfebe9;
+    background-color: #388277;
     padding-top: 50px;
     padding-bottom: 50px;
 }
@@ -220,11 +220,14 @@ nav a:visited {
 .hc h1 {
     text-align: center;
     font-family: 'Montserrat', sans-serif;
+    color:#dfebe9;
 }
 
 .CContent p{
     text-align: center;
+    color:#dfebe9;
 }
+
 /*Home end*/
 /*Website Project start*/
 .wss {
@@ -235,11 +238,11 @@ nav a:visited {
 .wss h1 {
     text-align: center;
     font-family: 'Montserrat', sans-serif;
-    color:white;
+    color:#dfebe9;
 }
 .wss p {
     text-align: center;
-    color:white;
+    color:#dfebe9;
 }
 .wss img {
     display: block;
