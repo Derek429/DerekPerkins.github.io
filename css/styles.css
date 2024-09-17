@@ -239,7 +239,11 @@ nav a:visited {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    height: 200px;
+    height: 400px;
+}
+.CCHW {
+    padding-top: 100px;
+    padding-bottom: 100px;
 }
 /*Website Project end*/
 
