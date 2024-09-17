@@ -223,6 +223,8 @@ nav a:visited {
 /*Website Project start*/
 .wss {
     background-color: #dfebe9;
+    padding-top: 30px;
+    padding-bottom: 30px;
 }
 .wss h1 {
     text-align: center;
