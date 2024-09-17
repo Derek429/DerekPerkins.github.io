@@ -213,6 +213,8 @@ nav a:visited {
 /*Home start*/
 .hc {
     background-color: #dfebe9;
+    padding-top: 50px;
+    padding-bottom: 50px;
 }
 
 .hc h1 {
