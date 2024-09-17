@@ -255,17 +255,19 @@ nav a:visited {
 
 /*Music Project start*/
 .mpj {
-    background-color: #dfebe9;
+    background-color: #388277;
 }
 
 .mpj h1 {
     text-align: center;
     font-family: 'Montserrat', sans-serif;
+    background-color: #dfebe9;
 }
 
 .mpj p {
     text-align: center;
     font-family: 'Montserrat', sans-serif;
+    background-color: #dfebe9;
 }
 
 .audio-container {
