@@ -286,9 +286,10 @@ nav a:visited {
 }
 
 .vidfr {
-    display: flex; 
-    width: 100vw;
+    display: flex;
+    width: 90vw;
     height: 50vh;
+    margin: auto;
     justify-content: center;
     align-items: center;
 }
