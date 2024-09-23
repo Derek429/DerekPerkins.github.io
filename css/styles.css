@@ -249,6 +249,7 @@ nav a:visited {
 }
 
 /*Home end*/
+
 /*Website Project start*/
 .wss {
     background-color: #388277;
@@ -339,6 +340,12 @@ nav a:visited {
 }
 .whhh p{
     color: #dfebe9;
+}
+.DWON img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:400px;
 }
 /*Resume end*/
 
