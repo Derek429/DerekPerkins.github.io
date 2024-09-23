@@ -341,11 +341,20 @@ nav a:visited {
 .whhh p{
     color: #dfebe9;
 }
+.whhh p {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:200px;
+}
 .DWON img {
     display: block;
     margin-left: auto;
     margin-right: auto;
     width:400px;
+}
+.DWON h1 {
+    text-align: center:
 }
 /*Resume end*/
 
