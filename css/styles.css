@@ -242,12 +242,6 @@ nav a:visited {
 .hc ul {
     color:#dfebe9;
 }
-
-.CContent p{
-    text-align: center;
-    color:#dfebe9;
-}
-
 /*Home end*/
 
 /*Website Project start*/
@@ -442,6 +436,13 @@ footer .ftlo{
     text-align: center;
     justify-content: center;
     margin-bottom: 25px;
+}
+.CContent {
+    margin-bottom: 25px;
+}
+.CContent p{
+    text-align: center;
+    color:white;
 }
 @media screen and (min-width: 992px) {
     .ftnav ul{
