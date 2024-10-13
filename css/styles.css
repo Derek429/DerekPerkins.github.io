@@ -235,7 +235,7 @@ left: 0;
 width: 100%;
 height: 100%;*/
 width:100%;
-height: 400px;
+height: 100%;
 object-position: 0 50%;
 opacity: 0;
 transition: opacity 1s ease-in-out;
@@ -287,9 +287,9 @@ overflow: hidden;
 }
 
 .carousel-static img {
-position: absolute;
+/*position: absolute;
 top: 0;
-left: 0;
+left: 0;*/
 width: 100%;
 height: 100%;
 object-fit: cover;
