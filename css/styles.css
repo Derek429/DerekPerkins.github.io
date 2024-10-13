@@ -261,6 +261,42 @@ z-index: 1;
 width: 95%;
 }
 
+.carousel-noscript {
+position: relative;
+width: 100%;
+height: 700px;
+overflow: hidden;
+}
+
+.carousel-noscript img {
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+opacity: 1;
+object-fit: cover;
+filter: brightness(0.5); 
+}
+
+.carousel-static {
+position: relative;
+width: 100%;
+height: 100%;
+overflow: hidden;
+}
+
+.carousel-static img {
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+object-fit: cover;
+}
+
+/*carosel end*/
+
 .hc {
     background-color: #388277;
     padding-top: 50px;
