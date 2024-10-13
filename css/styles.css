@@ -159,8 +159,8 @@ nav a:visited {
     .navbar {
         margin-top: 1.5rem;
         display: block;
-        flex: 0 1 calc(100% - 220px);
-        max-width: calc(100% - 220px);
+        /*flex: 0 1 calc(100% - 220px);
+        max-width: calc(100% - 220px);*/
         text-align: right;
     }
 
