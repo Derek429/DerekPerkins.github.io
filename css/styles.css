@@ -219,6 +219,20 @@ nav a:visited {
 /*header end*/
 
 /*Home start*/
+/* Image Carousel */
+.image-carousel {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	align-items: center;
+	margin: 2rem 0;
+}
+
+.image-carousel img {
+	max-width: 300px;
+	margin: 1rem;
+}
+
 .hc {
     background-color: #388277;
     padding-top: 50px;
