@@ -1,16 +1,3 @@
-//Nav
-
-const navSlide = () => {
-    const burger = document.querySelector('.burger');
-    const nav = document.querySelector('.nav-links');
-    burger.addEventListener('click', () => {
-        nav.classList.toggle('active');
-        burger.classList.toggle('active');
-    });
-}
-
-navSlide();
-
 //Home - Carousel Images
 
 const carouselImages = document.querySelectorAll('.carousel img');
@@ -38,18 +25,3 @@ showImage(currentIndex);
 setTimeout(function() {
   setInterval(rotateCarousel, 60000);
 }, 1000);
-
-// Donate btn
-
-// Select all elements with the class "donate"
-const donateBtns = document.querySelectorAll('.donate-bttn');
-
-// Loop through each donate button and add the pulsing animation effect
-donateBtns.forEach(button => {
-  button.addEventListener('mouseover', function() {
-    this.classList.add('pulse');
-  });
-  button.addEventListener('mouseout', function() {
-    this.classList.remove('pulse');
-  });
-});
