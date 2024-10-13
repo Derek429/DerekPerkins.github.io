@@ -317,6 +317,9 @@ object-fit: cover;
 .hc ul {
     color:#dfebe9;
 }
+.ProjectPrev img{
+    width: 100%;
+}
 /*Home end*/
 
 /*Website Project start*/
