@@ -335,7 +335,7 @@ object-fit: cover;
     width: 100%;
     height: 100%;
     object-fit: cover;
-    overflow: hidden;
+    transition: 0.4s;
 }
 .ProjectPrev img:hover{
     transform: scale(1.1)
