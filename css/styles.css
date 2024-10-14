@@ -335,7 +335,7 @@ object-fit: cover;
     transition: 0.4s;
 }
 .ProjectPrev img:hover{
-    transform: scale(1.1)
+    transform: zoom(1.1)
 }
 .WebsitesH {
     padding-right: 0px;
