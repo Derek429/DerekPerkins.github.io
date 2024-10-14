@@ -317,6 +317,9 @@ object-fit: cover;
 .hc ul {
     color:#dfebe9;
 }
+.AContent {
+    padding-bottom: 75px; 
+}
 .ProjectPrev {
     display: flex;
     flex-flow: row wrap;
