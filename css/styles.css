@@ -327,8 +327,6 @@ object-fit: cover;
     align-content: flex-start;
     margin-left: -1rem;
     margin-right: -1rem;
-    padding-right: 0;
-    padding-left: 0;
 }
 .ProjectPrev img{
     width: 100%;
@@ -340,12 +338,12 @@ object-fit: cover;
     transform: scale(1.1)
 }
 .WebsitesH {
-    padding-right: 0;
-    padding-left: 0;
+    padding-right: 0px;
+    padding-left: 0px;
 }
 .MusicC {
-    padding-right: 0;
-    padding-left: 0;
+    padding-right: 0px;
+    padding-left: 0px;
 }
 /*Home end*/
 
