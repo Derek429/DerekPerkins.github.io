@@ -331,6 +331,11 @@ object-fit: cover;
 .ProjectPrev img{
     width: 100%;
     height: 100%;
+    object-fit: cover;
+    overflow: hidden;
+}
+.ProjectPrev img:hover{
+    transform: scale(1.1)
 }
 .WebsitesH {
     padding-right: 0;
