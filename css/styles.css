@@ -320,13 +320,8 @@ object-fit: cover;
     padding-bottom: 75px; 
 }
 .ProjectPrev {
-    display: flex;
-    flex-flow: row wrap;
-    justify-content: flex-start;
-    align-items: flex-start;
-    align-content: flex-start;
-    margin-left: -1rem;
-    margin-right: -1rem;
+    /*margin-left: -1rem;
+    margin-right: -1rem;*/
 }
 .ProjectPrev img{
     width: 100%;
