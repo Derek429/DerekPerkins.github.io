@@ -318,6 +318,13 @@ object-fit: cover;
     color:#dfebe9;
 }
 .ProjectPrev {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: flex-start;
+    align-items: flex-start;
+    align-content: flex-start;
+    margin-left: -1rem;
+    margin-right: -1rem;
     padding-right: 0;
     padding-left: 0;
 }
