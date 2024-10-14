@@ -320,6 +320,8 @@ object-fit: cover;
     padding-bottom: 75px; 
 }
 .ProjectPrev {
+    padding-right: 0px;
+    padding-left: 0px;
     /*margin-left: -1rem;
     margin-right: -1rem;*/
 }
