@@ -322,6 +322,7 @@ object-fit: cover;
 .ProjectPrev {
     padding-right: 0px;
     padding-left: 0px;
+    overflow: hidden;
     /*margin-left: -1rem;
     margin-right: -1rem;*/
 }
