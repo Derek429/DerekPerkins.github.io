@@ -246,7 +246,7 @@ opacity: 1;
 }
 
 .carousel-text {
-font-family: 'Kanit', sans-serif;
+font-family: 'Bungee Inline', cursive;
 position: absolute;
 top: 50%;
 left: 50%;
@@ -468,7 +468,7 @@ object-fit: cover;
     width:600px;
 }
 .DWON {
-    background-color: #dfebe9;
+    background-color: #388277;
     padding-top: 20px;
     padding-bottom: 30px;
 }
@@ -479,7 +479,7 @@ object-fit: cover;
     width:200px;
 }
 .DWON h1 {
-    color: #388277;
+    color: #dfebe9;
     text-align: center;
 }
 /*Resume end*/
