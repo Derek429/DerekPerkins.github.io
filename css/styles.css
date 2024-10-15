@@ -334,7 +334,6 @@ object-fit: cover;
      display: block;
 }
 .ProjectPrev img{
-    width: 100%;
     height: 200px;
     object-position: 0 50%;
     transition: 0.4s;
@@ -345,6 +344,7 @@ object-fit: cover;
 .WebsitesH {
     margin-right: 0px;
     margin-left: 0px;
+    overflow: hidden;
 }
 .WebsitesH img{
     width: 100%;
@@ -353,6 +353,7 @@ object-fit: cover;
 .MusicC {
     margin-right: 0px;
     margin-left: 0px;
+    overflow: hidden;
 }
 .MusicC img{
     width: 100%;
@@ -446,6 +447,9 @@ object-fit: cover;
     background-color: #388277;
 }
 .whhh h1{
+    color: #dfebe9;
+}
+.whhh h2{
     color: #dfebe9;
 }
 .whhh p{
