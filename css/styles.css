@@ -295,17 +295,19 @@ object-fit: cover;
 
 .hc {
     background-color: #388277;
-    padding-top: 50px;
+    padding-top: 30px;
 }
 
 .hc h1 {
     text-align: center;
+    font-size: 30px;
     font-family: 'Montserrat', sans-serif;
     color:#dfebe9;
 }
 
 .hc p {
     color:#dfebe9;
+    font-size: 20px;
 }
 
 .hc li {
