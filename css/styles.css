@@ -319,6 +319,10 @@ object-fit: cover;
     text-align: center;
     padding-bottom: 75px; 
 }
+.AContent img{
+    width: 100%;
+    height: 500px;
+}
 .ProjectPrev {
     width: 100%;
     height: 100%;
