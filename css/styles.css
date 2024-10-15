@@ -347,6 +347,7 @@ object-fit: cover;
     margin-left: 0px;
 }
 .WebsitesH img{
+    width: 100%;
     object-fit: cover;
 }
 .MusicC {
@@ -354,6 +355,7 @@ object-fit: cover;
     margin-left: 0px;
 }
 .MusicC img{
+    width: 100%;
     object-fit: cover;
 }
 /*Home end*/
