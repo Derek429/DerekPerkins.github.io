@@ -317,6 +317,7 @@ object-fit: cover;
     color:#dfebe9;
 }
 .AContent {
+    text-align: center;
     padding-bottom: 75px; 
 }
 .ProjectPrev {
