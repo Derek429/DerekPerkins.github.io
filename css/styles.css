@@ -405,6 +405,20 @@ object-fit: cover;
     padding-top: 100px;
     padding-bottom: 100px;
 }
+.rightweb {
+    padding-right: 50px;
+    padding-top: 5%;
+}
+.rightweb p{
+    font-size: 20px;
+}
+.leftweb {
+    padding-left: 50px;
+    padding-top: 5%;
+}
+.leftweb p{
+    font-size: 20px;
+}
 /*Website Project end*/
 
 /*Music Project start*/
