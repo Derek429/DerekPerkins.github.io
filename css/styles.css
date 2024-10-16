@@ -486,6 +486,10 @@ object-fit: cover;
 .GCPTW h1{
     color: #dfebe9;
 }
+.GCPTW hr {
+    margin:auto;
+    object-position: 0 50%;
+}
 .GCPTW img {
     display: block;
     margin-left: auto;
