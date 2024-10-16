@@ -488,7 +488,6 @@ object-fit: cover;
 }
 .GCPTW hr {
     margin:auto;
-    object-position: 0 50%;
 }
 .GCPTW img {
     display: block;
