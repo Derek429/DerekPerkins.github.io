@@ -23,5 +23,5 @@ showImage(currentIndex);
 
 // Delay the rotation of the carousel by 1 minute (60000 milliseconds)
 setTimeout(function() {
-  setInterval(rotateCarousel, 60000);
+  setInterval(rotateCarousel, 30000);
 }, 1000);
