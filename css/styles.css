@@ -476,6 +476,9 @@ object-fit: cover;
     margin-right: auto;
     width:600px;
 }
+.gutx{
+    padding-right: 30px;
+}
 .DWON {
     background-color: #388277;
     padding-top: 20px;
