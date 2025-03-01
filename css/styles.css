@@ -493,11 +493,21 @@ object-fit: cover;
 
 .vidfr {
     display: flex;
-    width: 90vw;
     height: 50vh;
     margin: auto;
     justify-content: center;
     align-items: center;
+}
+@media screen and (min-width: 1140px){
+  .vidfr {
+    width: 90vw;
+  }
+}
+@media screen and (min-width: 576px) and (max-width: 1140px){
+
+}
+@media screen and (max-width: 576px) {
+
 }
 /*Music Project end*/
 
