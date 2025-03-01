@@ -514,7 +514,10 @@ object-fit: cover;
     height: 300px;
 }
 .CCHW od2{
-    order: -1;
+    order: 1;
+}
+.CCHW od1{
+    order: 2;
 }
 .CCHW {
     padding-top: 50px;
@@ -532,7 +535,10 @@ object-fit: cover;
     height: 150px;
 }
 .CCHW od2{
-    order: -1;
+    order: 1;
+}
+.CCHW od1{
+    order: 2;
 }
 .CCHW {
     padding-top: 10px;
