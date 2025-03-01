@@ -502,7 +502,7 @@ object-fit: cover;
     font-size: 15px;
 }
 .wss img {
-    height: 200px;
+    height: 150px;
 }
 }
 /*Website Project end*/
@@ -595,11 +595,6 @@ object-fit: cover;
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width:600px;
-}
-.gutx{
-    padding-right: 50px;
-    font-size: 20px;
 }
 .DWON {
     background-color: #388277;
@@ -618,13 +613,29 @@ object-fit: cover;
 }
 
 @media screen and (min-width: 1140px){
-
+.GCPTW img {
+    width:600px;
+}
+.gutx {
+    padding-right: 50px;
+    font-size: 20px;
+}
 }
 @media screen and (min-width: 576px) and (max-width: 1140px){
-
+.GCPTW img {
+    width:500px;
+}
+.gutx {
+    font-size: 15px;
+}
 }
 @media screen and (max-width: 576px) {
-
+.GCPTW img {
+    width:400px;
+}
+.gutx {
+    font-size: 15px;
+}
 }
 /*Resume end*/
 
