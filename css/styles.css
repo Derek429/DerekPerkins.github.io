@@ -628,6 +628,15 @@ object-fit: cover;
 .gutx {
     font-size: 15px;
 }
+.GCPTW h1{
+    text-align: center;
+}
+.GCPTW h2{
+    text-align: center;
+}
+.GCPTW p{
+    text-align: center;
+}
 }
 @media screen and (max-width: 576px) {
 .GCPTW img {
@@ -635,6 +644,15 @@ object-fit: cover;
 }
 .gutx {
     font-size: 15px;
+}
+.GCPTW h1{
+    text-align: center;
+}
+.GCPTW h2{
+    text-align: center;
+}
+.GCPTW p{
+    text-align: center;
 }
 }
 /*Resume end*/
