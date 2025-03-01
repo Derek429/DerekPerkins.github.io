@@ -624,6 +624,9 @@ object-fit: cover;
     padding-right: 50px;
     font-size: 20px;
 }
+.GCPTW hr {
+    margin-top: 70px;
+}
 }
 @media screen and (min-width: 576px) and (max-width: 1140px){
 .GCPTW img {
@@ -641,6 +644,9 @@ object-fit: cover;
 .GCPTW p{
     text-align: center;
 }
+.GCPTW hr {
+    margin-top: 70px;
+}
 }
 @media screen and (max-width: 576px) {
 .GCPTW img {
@@ -657,6 +663,9 @@ object-fit: cover;
 }
 .GCPTW p{
     text-align: center;
+}
+.GCPTW hr {
+    margin-top: 70px;
 }
 }
 /*Resume end*/
