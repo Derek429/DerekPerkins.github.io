@@ -463,19 +463,20 @@ object-fit: cover;
     padding-top: 100px;
     padding-bottom: 100px;
 }
-.leftweb {
-    padding-left: 20%;
-    padding-top: 15%;
-}
-.leftweb p{
-    font-size: 20px;
-}
+
 @media screen and (min-width: 1140px){
 .rightweb {
     padding-right: 20%;
     padding-top: 15%;
 }
 .rightweb p{
+    font-size: 20px;
+}
+.leftweb {
+    padding-left: 20%;
+    padding-top: 15%;
+}
+.leftweb p{
     font-size: 20px;
 }
 .wss img {
@@ -486,12 +487,18 @@ object-fit: cover;
 .rightweb p{
     font-size: 15px;
 }
+.leftweb p{
+    font-size: 15px;
+}
 .wss img {
     height: 300px;
 }
 }
 @media screen and (max-width: 576px) {
 .rightweb p{
+    font-size: 15px;
+}
+.leftweb p{
     font-size: 15px;
 }
 .wss img {
