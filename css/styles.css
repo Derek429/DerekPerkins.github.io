@@ -306,10 +306,16 @@ object-fit: cover;
   .carousel-text {
 	font-size: 2rem;
   }
+  .carousel-noscript {
+	object-position: 50% 35%
+  }
 }
 @media screen and (max-width: 576px) {
   .carousel-text {
 	font-size: 1rem;
+  }
+  .carousel-noscript {
+	object-position: 50% 35%
   }
 }
 /*carosel end*/
@@ -471,6 +477,15 @@ object-fit: cover;
 .leftweb p{
     font-size: 20px;
 }
+@media screen and (min-width: 1140px){
+
+}
+@media screen and (min-width: 576px) and (max-width: 1140px){
+
+}
+@media screen and (max-width: 576px) {
+
+}
 /*Website Project end*/
 
 /*Music Project start*/
@@ -575,6 +590,16 @@ object-fit: cover;
 .DWON h1 {
     color: #dfebe9;
     text-align: center;
+}
+
+@media screen and (min-width: 1140px){
+
+}
+@media screen and (min-width: 576px) and (max-width: 1140px){
+
+}
+@media screen and (max-width: 576px) {
+
 }
 /*Resume end*/
 
