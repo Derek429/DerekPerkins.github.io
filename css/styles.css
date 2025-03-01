@@ -539,7 +539,6 @@ object-fit: cover;
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width:400px;
 }
 
 .MVW {
@@ -558,12 +557,19 @@ object-fit: cover;
   .vidfr {
     width: 90vw;
   }
+  .OCW img {
+    width:400px;
+  }
 }
 @media screen and (min-width: 576px) and (max-width: 1140px){
-
+  .OCW img {
+    width:400px;
+  }
 }
 @media screen and (max-width: 576px) {
-
+  .OCW img {
+    width:200px;
+  }
 }
 /*Music Project end*/
 
