@@ -478,15 +478,24 @@ object-fit: cover;
 .rightweb p{
     font-size: 20px;
 }
+.wss img {
+    height: 400px;
+}
 }
 @media screen and (min-width: 576px) and (max-width: 1140px){
 .rightweb p{
     font-size: 15px;
 }
+.wss img {
+    height: 300px;
+}
 }
 @media screen and (max-width: 576px) {
 .rightweb p{
     font-size: 15px;
+}
+.wss img {
+    height: 200px;
 }
 }
 /*Website Project end*/
