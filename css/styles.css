@@ -323,7 +323,6 @@ object-fit: cover;
 }
 .AContent {
     text-align: center;
-    padding-bottom: 75px; 
 }
 .ProjectPrev {
     width: 100%;
@@ -365,6 +364,9 @@ object-fit: cover;
     object-fit: cover;
 }
 @media screen and (min-width: 1140px){
+  .AContent {
+   padding-bottom: 75px; 
+  }
   .AContent img{
     height: 500px;
   }
