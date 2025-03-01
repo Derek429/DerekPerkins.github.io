@@ -478,8 +478,6 @@ object-fit: cover;
 }
 .CCHW {
     display: flex;
-    padding-top: 100px;
-    padding-bottom: 100px;
 }
 
 @media screen and (min-width: 1140px){
@@ -500,6 +498,10 @@ object-fit: cover;
 .wss img {
     height: 400px;
 }
+.CCHW {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
 }
 @media screen and (min-width: 576px) and (max-width: 1140px){
 .rightweb p{
@@ -514,6 +516,10 @@ object-fit: cover;
 .CCHW od2{
     order: -1;
 }
+.CCHW {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
 }
 @media screen and (max-width: 576px) {
 .rightweb p{
@@ -524,6 +530,13 @@ object-fit: cover;
 }
 .wss img {
     height: 150px;
+}
+.CCHW od2{
+    order: -1;
+}
+.CCHW {
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 }
 /*Website Project end*/
