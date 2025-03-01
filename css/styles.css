@@ -385,6 +385,9 @@ object-fit: cover;
   }
 }
 @media screen and (min-width: 576px) and (max-width: 1140px){
+  .AContent {
+   padding-bottom: 20px; 
+  }
   .AContent img{
     height: 200px;
   }
@@ -396,6 +399,9 @@ object-fit: cover;
   }
 }
 @media screen and (max-width: 576px) {
+  .AContent {
+   padding-bottom: 20px; 
+  }
   .AContent img{
     height: 100px;
   }
