@@ -389,13 +389,13 @@ object-fit: cover;
    padding-bottom: 20px; 
   }
   .AContent img{
-    height: 200px;
+    height: 300px;
   }
   .hc h1 {
-    font-size: 20px;
+    font-size: 30px;
   }
   .hc p {
-    font-size: 10px;
+    font-size: 20px;
   }
 }
 @media screen and (max-width: 576px) {
@@ -403,13 +403,13 @@ object-fit: cover;
    padding-bottom: 20px; 
   }
   .AContent img{
-    height: 100px;
+    height: 250px;
   }
   .hc h1 {
-    font-size: 20px;
+    font-size: 30px;
   }
   .hc p {
-    font-size: 10px;
+    font-size: 15px;
   }
 }
 /*Home end*/
