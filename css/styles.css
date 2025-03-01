@@ -302,7 +302,6 @@ object-fit: cover;
 
 .hc {
     background-color: #388277;
-    padding-top: 70px;
 }
 
 .hc h1 {
@@ -372,6 +371,9 @@ object-fit: cover;
 @media screen and (min-width: 1140px){
   .AContent img{
     height: 500px;
+  }
+  .hc {
+    padding-top: 70px;
   }
   .hc h1 {
     font-size: 30px;
