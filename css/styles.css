@@ -325,10 +325,6 @@ object-fit: cover;
     text-align: center;
     padding-bottom: 75px; 
 }
-.abou{
-    padding-left: 90px;
-    padding-top: 75px;
-}
 .ProjectPrev {
     width: 100%;
     height: 100%;
@@ -380,6 +376,10 @@ object-fit: cover;
   }
   .hc p {
     font-size: 20px;
+  }
+  .abou{
+    padding-left: 90px;
+    padding-top: 75px;
   }
 }
 @media screen and (min-width: 576px) and (max-width: 1140px){
