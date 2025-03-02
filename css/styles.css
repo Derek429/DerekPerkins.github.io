@@ -476,9 +476,6 @@ object-fit: cover;
 .wss img:hover{
     transform: scale(1.1)
 }
-.CCHW {
-    display: flex;
-}
 
 @media screen and (min-width: 1140px){
 .rightweb {
@@ -513,9 +510,6 @@ object-fit: cover;
 .wss img {
     height: 300px;
 }
-.CCHW od2{
-    order: 1;
-}
 .CCHW od1{
     order: 2;
 }
@@ -533,9 +527,6 @@ object-fit: cover;
 }
 .wss img {
     height: 150px;
-}
-.CCHW od2{
-    order: 1;
 }
 .CCHW od1{
     order: 2;
