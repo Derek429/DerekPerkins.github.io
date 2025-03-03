@@ -11,7 +11,6 @@ header {
     box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
     padding: 1rem;
     background-color: #023c99;
-    display: flex;
     align-items: center;
     justify-content: space-between;
     z-index: 1000;
@@ -22,6 +21,10 @@ headera {
     background-color: #023c99;
     position: fixed;
     box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
+}
+
+body {
+    margin: 0px;
 }
 
 .title img{
