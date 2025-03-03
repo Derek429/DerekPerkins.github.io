@@ -2,6 +2,9 @@
 @import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css');
 @import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.2/css/brands.min.css');
 
+html {
+  scroll-behavior: smooth;
+}
 /*header start*/
 header {
     position: fixed;
