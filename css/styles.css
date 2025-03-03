@@ -4,6 +4,19 @@
 
 /*header start*/
 header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
+    padding: 1px 3%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    z-index: 1000;
+}
+
+headera {
     padding: 1rem;
     background-color: #023c99;
     position: fixed;
