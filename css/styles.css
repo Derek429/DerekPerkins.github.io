@@ -616,6 +616,7 @@ object-fit: cover;
     width: 90vw;
   }
   .OCW img {
+    height: 520px;
     width:400px;
   }
 }
