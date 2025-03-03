@@ -445,8 +445,8 @@ object-fit: cover;
     font-size: 20px;
   }
   .abou{
-    padding-left: 90px;
-    padding-top: 75px;
+    /*padding-left: 90px;
+    padding-top: 75px;*/
   }
 }
 @media screen and (min-width: 576px) and (max-width: 1140px){
