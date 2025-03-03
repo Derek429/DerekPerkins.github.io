@@ -680,7 +680,7 @@ object-fit: cover;
     font-size: 20px;
 }
 .GCPTW hr {
-    margin-top: 70px;
+    margin-top: 0px;
 }
 }
 @media screen and (min-width: 576px) and (max-width: 1140px){
