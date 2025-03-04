@@ -378,6 +378,7 @@ object-fit: cover;
 
 .hc p {
     color:#dfebe9;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .hc li {
@@ -494,6 +495,7 @@ object-fit: cover;
 }
 .wss p {
     text-align: center;
+    font-family: 'Montserrat', sans-serif;
     color:#dfebe9;
 }
 .wss img {
