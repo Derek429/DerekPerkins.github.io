@@ -101,7 +101,7 @@ nav li .navbar{
 }
 
 nav a:hover {
-	color: #e3edfc;
+	color: #c5dafc;
 }
 
 nav a:visited {
@@ -143,6 +143,7 @@ nav a:visited {
 .navbar a:link, 
 .navbar a:active,
 .navbar a:visited {
+    font-family: 'Montserrat', sans-serif;
     display: block;
     overflow: hidden;
     padding: 0.5rem 0.75rem;
@@ -151,7 +152,7 @@ nav a:visited {
 }
 
 .navbar a:hover {
-    color: #e3edfc;
+    color: #c5dafc;
 }
 
 .navbar .dropdown > a:after {
@@ -789,7 +790,7 @@ footer .ftlo{
 }
 
 .ftnav a:hover {
-    color: #e3edfc;
+    color: #c5dafc;
 }
 
 .ftnav ul{
@@ -818,6 +819,9 @@ footer .ftlo{
 .CContent a:visited {
     text-decoration: none;
     color: #fafafa;
+}
+.CContent a:hover {
+    color: #c5dafc;
 }
 @media screen and (min-width: 992px) {
     .ftnav ul{
