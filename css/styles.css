@@ -671,6 +671,7 @@ object-fit: cover;
 .DWON h1 {
     color: #dfebe9;
     text-align: center;
+    font-family: 'Montserrat', sans-serif;
 }
 
 @media screen and (min-width: 1140px){
