@@ -703,7 +703,7 @@ object-fit: cover;
     text-align: center;
 }
 .GCPTW hr {
-    margin-top: 50px;
+    margin-top: 0px;
 }
 }
 @media screen and (max-width: 576px) {
@@ -723,7 +723,7 @@ object-fit: cover;
     text-align: center;
 }
 .GCPTW hr {
-    margin-top: 50px;
+    margin-top: 0px;
 }
 }
 /*Resume end*/
