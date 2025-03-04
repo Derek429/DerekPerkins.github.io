@@ -151,7 +151,7 @@ nav a:visited {
 }
 
 .navbar a:hover {
-    color: #444444;
+    color: #e3edfc;
 }
 
 .navbar .dropdown > a:after {
@@ -729,7 +729,7 @@ object-fit: cover;
 
 /*Footer*/
 footer {
-	background-color: black;
+    background-color: black;
     display: flex;
     flex-flow: row wrap;
 }
@@ -789,7 +789,7 @@ footer .ftlo{
 }
 
 .ftnav a:hover {
-    color: #cccccc;
+    color: #e3edfc;
 }
 
 .ftnav ul{
@@ -813,12 +813,10 @@ footer .ftlo{
     text-align: center;
     color:white;
 }
-.CContent a:hover {
-    color: #e3edfc;
-}
 .CContent a:link, 
 .CContent a:active,
 .CContent a:visited {
+    text-decoration: none;
     color: #fafafa;
 }
 @media screen and (min-width: 992px) {
