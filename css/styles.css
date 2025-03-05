@@ -391,6 +391,10 @@ object-fit: cover;
 .AContent {
     text-align: center;
 }
+.AContent img{
+    justify-content: center;
+    align-items: center;
+  }
 .ProjectPrev {
     width: 100%;
     height: 100%;
