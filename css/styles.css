@@ -456,7 +456,7 @@ object-fit: cover;
     padding-top: 75px;*/
   }
 }
-@media screen and (min-width: 576px) and (max-width: 1140px){
+@media screen and (min-width: 576px) and (max-width: 1000px){
   .AContent {
    padding-bottom: 20px; 
   }
