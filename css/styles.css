@@ -554,7 +554,7 @@ object-fit: cover;
     padding-bottom: 50px;
 }
 }
-@media screen and (max-width: 576px) {
+@media screen and (min-width: 320px) and (max-width: 576px) {
 .rightweb p{
     font-size: 15px;
 }
@@ -570,6 +570,11 @@ object-fit: cover;
 .CCHW {
     padding-top: 10px;
     padding-bottom: 10px;
+}
+}
+@media screen and (min-width: 320px) and (max-width: 576px) {
+.wss img {
+    height: 90px;
 }
 }
 /*Website Project end*/
