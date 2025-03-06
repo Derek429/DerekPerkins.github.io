@@ -473,6 +473,7 @@ object-fit: cover;
    padding-bottom: 20px; 
   }
   .AContent img{
+    margin-top: 15px;
     height: 200px;
   }
   .hc h1 {
@@ -493,7 +494,7 @@ object-fit: cover;
     font-size: 30px;
   }
   .hc p {
-    font-size: 20px;
+    font-size: 15px;
   }
 }
 @media screen and (max-width: 576px) {
@@ -688,13 +689,12 @@ object-fit: cover;
     width: 90vw;
   }
   .OCW img {
-    height: 450px;
-    width:300px;
+    height: 400px;
   }
 }
 @media screen and (min-width: 576px) and (max-width: 1024px){
   .OCW img {
-    width:400px;
+    width:300px;
   }
 }
 @media screen and (max-width: 576px) {
