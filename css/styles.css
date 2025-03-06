@@ -541,7 +541,7 @@ object-fit: cover;
     font-size: 20px;
 }
 .od1 {
-    order: 1;
+    order: 0;
 }
 .wss img {
     height: 400px;
