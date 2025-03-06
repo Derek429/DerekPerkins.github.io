@@ -563,7 +563,7 @@ object-fit: cover;
     padding-bottom: 100px;
 }
 }
-@media screen and (min-width: 1024px) and (max-width: 1440px){
+@media screen and (min-width: 1024px) and (max-width: 1439px){
 .rightweb {
     padding-right: 20%;
 }
@@ -584,7 +584,7 @@ object-fit: cover;
     padding-bottom: 100px;
 }
 }
-@media screen and (min-width: 768px) and (max-width: 1024px){
+@media screen and (min-width: 768px) and (max-width: 1023px){
 .rightweb p{
     font-size: 15px;
 }
@@ -602,7 +602,7 @@ object-fit: cover;
     padding-bottom: 50px;
 }
 }
-@media screen and (min-width: 576px) and (max-width: 768px) {
+@media screen and (min-width: 576px) and (max-width: 767px) {
 .rightweb p{
     font-size: 15px;
 }
@@ -682,7 +682,7 @@ object-fit: cover;
     width:400px;
   }
 }
-@media screen and (min-width: 1024px) and (max-width: 1440px){
+@media screen and (min-width: 1024px) and (max-width: 1439px){
   .vidfr {
     width: 90vw;
   }
@@ -690,7 +690,7 @@ object-fit: cover;
     height: 400px;
   }
 }
-@media screen and (min-width: 576px) and (max-width: 1024px){
+@media screen and (min-width: 576px) and (max-width: 1023px){
   .OCW img {
     width:300px;
   }
