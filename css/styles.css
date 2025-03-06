@@ -38,7 +38,6 @@ body {
 .title img{
     display: block;
     width:100%;
-    height: 450px;
     object-fit: cover;
     object-position: 0 50%;
     filter: brightness(0.5);
@@ -67,20 +66,33 @@ body {
 .centered {
   font-size: 30px;
 }
+.title img{
+    height: 450px;
+}
 }
 @media screen and (min-width: 576px) and (max-width: 1140px){
 .centered {
   text-align: center;
   font-size: 25px;
 }
+.title img{
+    height: 450px;
 }
-@media screen and (max-width: 576px) {
+}
+@media screen and (min-width: 320px) and (max-width: 576px) {
 .centered {
   text-align: center;
   font-size: 20px;
 }
+.title img{
+    height: 450px;
 }
-
+}
+@media screen and (max-width: 320px) {
+.title img{
+    height: 300px;
+}
+}
 /*Nav Start*/
 nav {
     display: flex;
@@ -187,7 +199,7 @@ nav a:visited {
     background-color: #7B9EFD;
 }
 
-@media screen and (min-width: 1140px){
+@media screen and (min-width: 1024px){
     .navbar.open {
         margin-top: 1rem;
         display: block;
@@ -227,7 +239,7 @@ nav a:visited {
     }
 }
 
-@media screen and (min-width: 576px) and (max-width: 1140px){
+@media screen and (min-width: 576px) and (max-width: 1024px){
     .navbar-brand img{
         margin-top: .2rem;
         max-width: 400px;
@@ -343,12 +355,12 @@ height: 100%;
 object-fit: cover;
 }
 
-@media screen and (min-width: 1140px){
+@media screen and (min-width: 1024px){
   .carousel-text {
 	font-size: 3rem;
   }
 }
-@media screen and (min-width: 576px) and (max-width: 1140px){
+@media screen and (min-width: 576px) and (max-width: 1024px){
   .carousel-text {
 	font-size: 2rem;
   }
@@ -434,7 +446,7 @@ object-fit: cover;
     width: 100%;
     object-fit: cover;
 }
-@media screen and (min-width: 992px){
+@media screen and (min-width: 1024px){
   .AContent {
    padding-bottom: 75px; 
   }
@@ -456,7 +468,7 @@ object-fit: cover;
     padding-top: 75px;*/
   }
 }
-@media screen and (min-width: 576px) and (max-width: 992px){
+@media screen and (min-width: 576px) and (max-width: 1024px){
   .AContent {
    padding-bottom: 20px; 
   }
@@ -513,7 +525,7 @@ object-fit: cover;
     transform: scale(1.1)
 }
 
-@media screen and (min-width: 992px){
+@media screen and (min-width: 1024px){
 .rightweb {
     padding-right: 20%;
     padding-top: 15%;
@@ -536,7 +548,7 @@ object-fit: cover;
     padding-bottom: 100px;
 }
 }
-@media screen and (min-width: 576px) and (max-width: 992px){
+@media screen and (min-width: 576px) and (max-width: 1024px){
 .rightweb p{
     font-size: 15px;
 }
@@ -554,7 +566,7 @@ object-fit: cover;
     padding-bottom: 50px;
 }
 }
-@media screen and (min-width: 320px) and (max-width: 576px) {
+@media screen and (min-width: 320px) and (max-width: 1024px) {
 .rightweb p{
     font-size: 15px;
 }
@@ -574,7 +586,7 @@ object-fit: cover;
 }
 @media screen and (min-width: 320px) and (max-width: 576px) {
 .wss img {
-    height: 90px;
+    height: 100px;
 }
 }
 /*Website Project end*/
@@ -625,7 +637,7 @@ object-fit: cover;
     justify-content: center;
     align-items: center;
 }
-@media screen and (min-width: 992px){
+@media screen and (min-width: 1024px){
   .vidfr {
     width: 90vw;
   }
@@ -634,7 +646,7 @@ object-fit: cover;
     width:400px;
   }
 }
-@media screen and (min-width: 576px) and (max-width: 992px){
+@media screen and (min-width: 576px) and (max-width: 1024px){
   .OCW img {
     width:400px;
   }
@@ -647,6 +659,9 @@ object-fit: cover;
 /*Music Project end*/
 
 /*Resume start*/
+.whhh {
+    background-color: #388277;
+}
 .whhh h2{
     color: #dfebe9;
 }
@@ -685,7 +700,7 @@ object-fit: cover;
     font-family: 'Montserrat', sans-serif;
 }
 
-@media screen and (min-width: 992px){
+@media screen and (min-width: 1024px){
 .GCPTW img {
     width:600px;
 }
@@ -700,7 +715,7 @@ object-fit: cover;
     padding-top:70px;
 }
 }
-@media screen and (min-width: 576px) and (max-width: 992px){
+@media screen and (min-width: 576px) and (max-width: 1024px){
 .GCPTW img {
     width:400px;
 }
