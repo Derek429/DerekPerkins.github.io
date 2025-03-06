@@ -468,7 +468,7 @@ object-fit: cover;
     padding-top: 75px;*/
   }
 }
-@media screen and (min-width: 1024px) and (max-width: 1440px){
+@media screen and (min-width: 1024px) and (max-width: 1439px){
   .AContent {
    padding-bottom: 20px; 
   }
@@ -483,7 +483,7 @@ object-fit: cover;
     font-size: 20px;
   }
 }
-@media screen and (min-width: 576px) and (max-width: 1024px){
+@media screen and (min-width: 576px) and (max-width: 1023px){
   .AContent {
    padding-bottom: 20px; 
   }
