@@ -480,7 +480,7 @@ object-fit: cover;
     font-size: 30px;
   }
   .hc p {
-    font-size: 17px;
+    font-size: 15px;
   }
 }
 @media screen and (min-width: 576px) and (max-width: 1023px){
