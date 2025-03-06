@@ -434,7 +434,7 @@ object-fit: cover;
     width: 100%;
     object-fit: cover;
 }
-@media screen and (min-width: 1140px){
+@media screen and (min-width: 992px){
   .AContent {
    padding-bottom: 75px; 
   }
@@ -456,7 +456,7 @@ object-fit: cover;
     padding-top: 75px;*/
   }
 }
-@media screen and (min-width: 576px) and (max-width: 1000px){
+@media screen and (min-width: 576px) and (max-width: 992px){
   .AContent {
    padding-bottom: 20px; 
   }
@@ -513,7 +513,7 @@ object-fit: cover;
     transform: scale(1.1)
 }
 
-@media screen and (min-width: 1140px){
+@media screen and (min-width: 992px){
 .rightweb {
     padding-right: 20%;
     padding-top: 15%;
@@ -536,7 +536,7 @@ object-fit: cover;
     padding-bottom: 100px;
 }
 }
-@media screen and (min-width: 576px) and (max-width: 1140px){
+@media screen and (min-width: 576px) and (max-width: 992px){
 .rightweb p{
     font-size: 15px;
 }
@@ -620,7 +620,7 @@ object-fit: cover;
     justify-content: center;
     align-items: center;
 }
-@media screen and (min-width: 1140px){
+@media screen and (min-width: 992px){
   .vidfr {
     width: 90vw;
   }
@@ -629,7 +629,7 @@ object-fit: cover;
     width:400px;
   }
 }
-@media screen and (min-width: 576px) and (max-width: 1140px){
+@media screen and (min-width: 576px) and (max-width: 992px){
   .OCW img {
     width:400px;
   }
@@ -680,7 +680,7 @@ object-fit: cover;
     font-family: 'Montserrat', sans-serif;
 }
 
-@media screen and (min-width: 1140px){
+@media screen and (min-width: 992px){
 .GCPTW img {
     width:600px;
 }
@@ -695,7 +695,7 @@ object-fit: cover;
     padding-top:70px;
 }
 }
-@media screen and (min-width: 576px) and (max-width: 1140px){
+@media screen and (min-width: 576px) and (max-width: 992px){
 .GCPTW img {
     width:400px;
 }
