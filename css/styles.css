@@ -566,14 +566,12 @@ object-fit: cover;
 @media screen and (min-width: 1024px) and (max-width: 1440px){
 .rightweb {
     padding-right: 20%;
-    padding-top: 15%;
 }
 .rightweb p{
     font-size: 15px;
 }
 .leftweb {
     padding-right: 20%;
-    padding-top: 5%;
 }
 .leftweb p{
     font-size: 15px;
