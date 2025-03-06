@@ -473,7 +473,7 @@ object-fit: cover;
    padding-bottom: 20px; 
   }
   .AContent img{
-    margin-top: 20%;
+    margin-top: 16%;
     height: 220px;
   }
   .hc h1 {
@@ -688,6 +688,9 @@ object-fit: cover;
   }
   .OCW img {
     height: 400px;
+  }
+  .mjp p{
+    padding-top: 10px;
   }
 }
 @media screen and (min-width: 576px) and (max-width: 1023px){
