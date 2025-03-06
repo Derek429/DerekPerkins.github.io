@@ -737,6 +737,10 @@ object-fit: cover;
     margin-left: auto;
     margin-right: auto;
     width:200px;
+    transition: 0.4s;
+}
+.DWON img:hover{
+    transform: scale(1.1)
 }
 .DWON h1 {
     color: #dfebe9;
