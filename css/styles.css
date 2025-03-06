@@ -446,7 +446,7 @@ object-fit: cover;
     width: 100%;
     object-fit: cover;
 }
-@media screen and (min-width: 1024px){
+@media screen and (min-width: 1440px){
   .AContent {
    padding-bottom: 75px; 
   }
@@ -466,6 +466,20 @@ object-fit: cover;
     padding-left: 50px;
     /*padding-left: 90px;
     padding-top: 75px;*/
+  }
+}
+@media screen and (min-width: 1024px) and (max-width: 1440px){
+  .AContent {
+   padding-bottom: 20px; 
+  }
+  .AContent img{
+    height: 200px;
+  }
+  .hc h1 {
+    font-size: 30px;
+  }
+  .hc p {
+    font-size: 20px;
   }
 }
 @media screen and (min-width: 576px) and (max-width: 1024px){
@@ -525,7 +539,7 @@ object-fit: cover;
     transform: scale(1.1)
 }
 
-@media screen and (min-width: 1024px){
+@media screen and (min-width: 1440px){
 .rightweb {
     padding-right: 20%;
     padding-top: 15%;
@@ -540,8 +554,28 @@ object-fit: cover;
 .leftweb p{
     font-size: 20px;
 }
-.od1 {
-    order: 0;
+.wss img {
+    height: 400px;
+}
+.CCHW {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+}
+@media screen and (min-width: 1024px) and (max-width: 1440px){
+.rightweb {
+    padding-right: 20%;
+    padding-top: 15%;
+}
+.rightweb p{
+    font-size: 15px;
+}
+.leftweb {
+    padding-left: 20%;
+    padding-top: 5%;
+}
+.leftweb p{
+    font-size: 15px;
 }
 .wss img {
     height: 400px;
@@ -640,13 +674,22 @@ object-fit: cover;
     justify-content: center;
     align-items: center;
 }
-@media screen and (min-width: 1024px){
+@media screen and (min-width: 1440px){
   .vidfr {
     width: 90vw;
   }
   .OCW img {
     height: 520px;
     width:400px;
+  }
+}
+@media screen and (min-width: 1024px) and (max-width: 1440px){
+  .vidfr {
+    width: 90vw;
+  }
+  .OCW img {
+    height: 450px;
+    width:300px;
   }
 }
 @media screen and (min-width: 576px) and (max-width: 1024px){
